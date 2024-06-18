@@ -1,18 +1,8 @@
-
-<h1><?= "Mi primera App"; ?></h1>
-<h2><?= "Aprendiendo con muchas ganas"; ?></h2>
-
-
-
-
-<style>
-  :root {
-    color-scheme: light dark;
-  }
-
-  body {
-    display: grid;
-    place-content: center;
-    }
-
-</style>
+<html>
+ <head>
+  <title>Prueba de PHP</title>
+ </head>
+ <body>
+ <?php echo '<p>Hola Mundo</p>'; ?>
+ </body>
+</html>
