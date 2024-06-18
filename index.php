@@ -1,5 +1,8 @@
 
 <h1><?= "Mi primera App"; ?></h1>
+<h2><?= "Aprendiendo con muchas ganas"; ?></h2>
+
+
 
 
 <style>
@@ -11,4 +14,5 @@
     display: grid;
     place-content: center;
     }
+
 </style>
